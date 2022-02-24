@@ -1,0 +1,21 @@
+body
+{
+    background-image: url("https://images.unsplash.com/photo-1583119912267-cc97c911e416?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjB8fGFydHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.table
+{
+    background-color: #CDB699;
+    border: 3px;
+    width: 100%;
+}
+.table_data
+{
+     width: 25%;
+     text-align: center;
+     text-decoration: solid;
+}

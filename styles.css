@@ -1,0 +1,78 @@
+body
+{
+    text-align: center;
+    background-image: url("https://images.unsplash.com/photo-1564951434112-64d74cc2a2d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTQ3fHxhcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.contact_us
+{
+    display: inline-block;
+    position: sticky;
+}
+.about_us
+{
+    display: inline-block;
+    position: sticky;
+    font-family: Rockwell Extra Bold,Rockwell Bold,monospace;
+    font-size: 50px;
+}
+.table
+{
+    background-color: #BAABDA;
+    border: 3px;
+    width: 100%;
+}
+.table_data
+{
+     width: 25%;
+     text-align: center;
+     text-decoration: solid;
+}
+
+.text
+{
+    font-family: fantasy;
+    font-size: 80px;
+}
+
+.types1
+{
+
+    display: inline-block;
+
+    font-family: fantasy, serif;
+    font-size: 50px;
+
+    margin: 25px;
+    text-align: left;
+}
+
+.types2
+{
+    display: inline-block;
+
+    font-family: fantasy, serif;
+    font-size: 50px;
+
+    margin: 25px ;
+    text-align: right;
+    background-image: url("");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.types3
+{
+    display: inline-block;
+
+    font-family: fantasy, serif;
+    font-size: 50px;
+
+    margin: 25px;
+    text-align: center;
+
+}
